@@ -4,7 +4,7 @@
 An NBA landing Page
 
 
-Kindly take note, most of my website projects are not Responsive. However they will be added to them very soon.
+Kindly take note, most of my  beginner website projects are not Responsive. However they will be added to them very soon.
 
 
 And this form part of my first series of project as a front end developer.
